@@ -31,16 +31,16 @@ sidebar:
         level: Professional
 
       - idiom: Spanish
-        level: Professional
+        level: Intermediate
         
     interests:
-      - item: Climbing
+      - item: Cycling
         link:
 
-      - item: Snowboarding
+      - item: Board Games
         link:
 
-      - item: Cooking
+      - item: Family & Friends
         link:
 
 career-profile:
@@ -69,7 +69,7 @@ education:
           - Bullet point 
 
     - degree: BSc in Computer Science and Engineering
-      university: niversity of Beira Interior
+      university: University of Beira Interior
       time: 2014 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
