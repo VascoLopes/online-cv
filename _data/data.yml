@@ -7,27 +7,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Vasco Ferrinho Lopes
+    tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    email: vascoferrinholopes@gmail.com
+    phone: +351 926 472 722
+    #website: blog.webjeda.com #do not add http://
+    linkedin: https://www.linkedin.com/in/vasco-lopes/
+    github: https://github.com/VascoLopes
+    gitlab: https://gitlab.com/vurij
+    #bitbucket:
+    #twitter: '@webjeda'
+    stack-overflow: 4740061/vasco-lopes
+    #codewars:
 
     languages:
-      - idiom: English
+      - idiom: Portuguese
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
       - idiom: Spanish
@@ -55,9 +55,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Computer Science and Engineering
+      university: University of Beira Interior
+      time: 2017 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +68,9 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Science and Engineering
+      university: niversity of Beira Interior
+      time: 2014 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -177,23 +177,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        #level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        #level: 98%
 
       - name: Angular
-        level: 98%
+        #level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        #level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        #level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        #level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
