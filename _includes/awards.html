@@ -18,16 +18,9 @@
 
   {% for award in awards.awardsReceived %}
     <div class="item">
-
-      <span class="project-title">
-        <a href="{{ award.link }}">{{ award.title }}</a>
-      </span>
-
-      {% if award.tagline %}
-      - <span class="project-tagline">{{ award.tagline }}</span>
-      {% endif %}
-
-    </div><!--//item-->
+    <div class="publication-title">{{ award.title }}</div>
+    <div class="publication-conference">{{ award.givenBy }}</div>
+  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
