@@ -174,15 +174,19 @@ awards:
 
     awardsReceived:
       - title: "Best student award relative to the conclusion of Bachelor's at Computer Science and Engineering"
+        link: "#"
         givenBy: "University of Beira Interior & Fundão City Council"
         
       - title: "Best student award relative to the 3rd year of Bachelor's at Computer Science and Engineering"
+        link: "#"
         givenBy: "University of Beira Interior - Informatics Department"
         
       - title: "Best student award relative to the 2nd year of Bachelor's at Computer Science and Engineering"
+        link: "#"
         givenBy: "University of Beira Interior - Informatics Department"
 
       - title: "First Place in the Project organised by OutSystems which consisted in the creation of a Web and Mobile application to manage the recruiting process of a company."
+        link: "#"
         givenBy: "OutSystems & University of Beira Interior"
 
 
