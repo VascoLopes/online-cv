@@ -177,25 +177,19 @@ awards:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     awardsReceived:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: "Best student award relative to the conclusion of Bachelor's at Computer Science and Engineering"
+        givenBy: "University of Beira Interior & Fundão City Council"
+        
+      - title: "Best student award relative to the 3rd year of Bachelor's at Computer Science and Engineering"
+        givenBy: "University of Beira Interior - Informatics Department"
+        
+      - title: "Best student award relative to the 2nd year of Bachelor's at Computer Science and Engineering"
+        givenBy: "University of Beira Interior - Informatics Department"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: "First Place in the Project organised by OutSystems which consisted in the creation of a Web and Mobile application to manage the recruiting process of a company."
+        givenBy: "OutSystems & University of Beira Interior"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
