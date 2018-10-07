@@ -123,31 +123,40 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #intro: >
+    #  You can list your side projects or open source libraries in this
+    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: "TwitterAnalysis"
+        #link: "#hook"
+        tagline: " Project that allows anyone to analyze a Twitter profile and receive information about suicidal tendencies, tweet sentiment, complete profile analysis, profanity detection among others. (On the verge of being public)"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: "Algorithms for Robot Grasping"
+        #link: "#"
+        tagline: "Consisted on a set of algorithms that can detect grasp position on novel objects on unknown positions and execute a robotic movement to grasp the object."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: "Escritor Surrealista"
+        link: "https://play.google.com/store/apps/details?id=pt.ubi.di.pdm.escritorsurrealista"
+        tagline: "Academic project where we developed a game for mobile devices (Android). The game is based on story creation, where each player writes a piece of it, and passes to the next player who, seeing only the final part that the previous player wrote, tries to continue the story."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: "SimpleRecruiting"
+        #link: "#"
+        tagline: "Web and Mobile recruitment application. Developed using the OutSystems development tool. The application was intended to be used by a recruiter of a company. He could manage the candidates, set up interviews, examinations and open new job offers, among other features."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: "XIUUU: Secure Way to Exchange Cryptographic Secrets"
+        link: "https://github.com/VascoLopes/XIUUU"
+        tagline: "The XIUUU application aims at the exchange of secrets in a secure way between two entities (using Computer Security knowledge). The communication of these secrets is done using algorithms and cryptographic protocols, which makes the process of secrecy exchange more secure and reliable."
+      
+      - title: "PokeBan"
+        #link: "https://github.com/VascoLopes/XIUUU"
+        tagline: "Recretion of the famous game Sokoban with graphics from Pokemon, this was developed with C and OpenGL and was capable of receiving hand-made levels and create the 3D scenario."
+      
+      - title: "TuTubo"
+        #link: "https://github.com/VascoLopes/XIUUU"
+        tagline: "Command-line application (developed using C programming language, which consisted on aggregating information about opinions issued and received in order to detect cycles (to detect possible scams, 2 persons giving good opinions about each other all the time) and define e priority users in terms of advertising. This project was heavily based on data-structures."
+
 
 publications:
     title: Publications
