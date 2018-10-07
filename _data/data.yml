@@ -171,13 +171,10 @@ publications:
         
 awards:
     title: Awards
-    intro: |
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     awardsReceived:
       - title: "Best student award relative to the conclusion of Bachelor's at Computer Science and Engineering"
+        link: "online-cv/assets/images/QuadroDeHonraUBI.pdf"
         givenBy: "University of Beira Interior & Fundão City Council"
         
       - title: "Best student award relative to the 3rd year of Bachelor's at Computer Science and Engineering"
