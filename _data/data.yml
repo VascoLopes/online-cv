@@ -131,7 +131,11 @@ projects:
     assignments:
       - title: "TwitterAnalysis"
         #link: "#hook"
-        tagline: " Project that allows anyone to analyze a Twitter profile and receive information about suicidal tendencies, tweet sentiment, complete profile analysis, profanity detection among others. (On the verge of being public)"
+        tagline: "Project that allows anyone to analyze a Twitter profile and receive information about suicidal tendencies, tweet sentiment, complete profile analysis, profanity detection among others. (On the verge of being public)"
+
+      - title: "Knowhau"
+        link: "https://github.com/VascoLopes/knowhau"
+        tagline: "Cross-platform application to engage with beacon technology. The content to be delivered can be updated in a web page, and users can receive notification on their mobile phones."
 
       - title: "Algorithms for Robot Grasping"
         #link: "#"
