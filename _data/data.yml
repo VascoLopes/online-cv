@@ -96,7 +96,7 @@ experiences:
           - ROS
           - PCL
           - OpenCV
-          - TensorFlow
+          - TensorFlow & TFLearn
           - Raspberry PI
           - Arduino
 
@@ -151,23 +151,23 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    #intro: |
+    #  You can list your publications in this section. Lorem ipsum dolor sit
+    #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #  bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "An Overview of Blockchain Integration with Robotics and Artificial Intelligence"
+        authors: Lopes, V., Alexandre, L.A.
+        conference: CoRR, abs/1810.00329, 2018.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Less is More: Simplifying Point Clouds to Improve Grasping Performance"
+        authors: Lopes, V., Alexandre, L.A., Fernandes, M.
+        conference: " 18th IEEE International Conference on Autonomous Robot Systems and Competitions, Torres Vedras, Portugal, 2018"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Improving Grasping Performance by Segmentation of Large Planar Surfaces"
+        authors: Lopes, V., Alexandre, L.A.
+        conference: "23rd Portuguese Conference on Pattern Recognition, RECPAD 2017, Lisbon, Portugal, October 27, 2017"
         
 awards:
     title: Awards
