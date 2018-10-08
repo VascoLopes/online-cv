@@ -202,6 +202,18 @@ awards:
         givenBy: "OutSystems & University of Beira Interior"
 
 
+volunteering:
+    title: Volunteering
+    #intro: |
+    #  You can list your publications in this section. Lorem ipsum dolor sit
+    #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #  bibendum fringilla a eu lectus
+    
+    actions:
+        - title: aaa
+          #link:
+          conductedIn: aaa
+    
 
 skills:
     title: Skills &amp; Proficiency
