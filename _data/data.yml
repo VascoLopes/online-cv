@@ -55,7 +55,7 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science and Engineering
+    - degree: Masters in Computer Science and Engineering
       university: University of Beira Interior
       time: 2017 - 2019
       details: |
@@ -68,7 +68,7 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Computer Science and Engineering
+    - degree: Bachelors in Computer Science and Engineering
       university: University of Beira Interior
       time: 2014 - 2017
       details: |
