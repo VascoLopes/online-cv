@@ -115,7 +115,7 @@ experiences:
       details: |
         I was a Microsoft Student Partner (MSP) for the lective year of 2016/2017 at University of Beira Interior.
         
-        While MSP I've organized and co-organized events suchs as Microsoft IoT Labs @ UBI which had 40 participants (max capacity) that worked with Raspberry Pi and Azure for a whole day.
+        While MSP I've organized and co-organized events such as Microsoft IoT Labs @ UBI which had 40 participants (max capacity) that worked with Raspberry Pi and Azure for a whole day.
         I've also conducted presentations on the campus about Microsoft technologies, such as:
             - Microsoft Flow
             - Xamarin
@@ -210,9 +210,40 @@ volunteering:
     #  bibendum fringilla a eu lectus
     
     actions:
-        - title: aaa
+        - title: Vice-President of the Board of the Student Group NESDUBI
+          conductedIn: University of Beira Interior (2017/2018)
+          
+        - title: Campus Ambassador of ENEI'18
+          conductedIn: University of Beira Interior
+    
+        - title: Student representative of the 1st year in Masters of Computer Science and Engineering
+          conductedIn: University of Beira Interior (2017/2018)
+          
+        - title: Mentor at Summer University - University of Beira Interior
+          conductedIn: University of Beira Interior, Covilhã, 2017
+          
+        - title: Mentor at Ignite Your Future 2017 (Team got 2nd place out of 31 teams)
+          conductedIn: Fundão, Portugal
+    
+        - title: Member of the Board of the Student Group NESDUBI
+          conductedIn: University of Beira Interior (2016/2017)
+          
+        - title: Student representative of the 3rd year in Computer Science and Engineering
+          conductedIn: University of Beira Interior (2016/2017)
+    
+        - title: Member of the Board of the Student Group NESDUBI
+          conductedIn: University of Beira Interior (2015/2016)
+    
+        - title: Student representative of the 2nd year in Computer Science and Engineering
+          conductedIn: University of Beira Interior (2015/2016)
+          
+        - title: Student representative of the 1st year in Computer Science and Engineering
           #link:
-          conductedIn: aaa
+          conductedIn: University of Beira Interior (2014/2015)
+          
+        - title: Participated in the organization of multiple actions to collect food and clothing.
+          conductedIn: Covilhã
+        
     
 
 skills:
