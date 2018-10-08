@@ -18,8 +18,10 @@
 
   {% for award in awards.awardsReceived %}
     <div class="item">
-      <a href="{{ award.link }}">{{ award.title }}</a>
-        <!--<div class="publication-title">{{ award.title }}</div>-->
+      {% if award.link|length > 1 %}
+        <a href="{{ award.link }}">{{ award.title }}</a>
+      {% else %}
+        <div class="publication-title">{{ award.title }}</div>
     <div class="publication-conference">{{ award.givenBy }}</div>
   </div><!--//item-->
   {% endfor %}
