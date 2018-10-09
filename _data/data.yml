@@ -255,7 +255,7 @@ skills:
         level: ROS
 
       - name: Java
-        level: Tensorflow
+        level: OpenCV
 
       - name: C & C++
         level: Scikit, NLTK
@@ -264,7 +264,7 @@ skills:
         level:  Numpy, Pandas
 
       - name: Matlab
-        level: OpenCV
+        level: Tensorflow
 
       - name: C#
         #level: 60%
