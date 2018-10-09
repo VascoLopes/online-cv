@@ -170,12 +170,10 @@ certifications:
     #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #  bibendum fringilla a eu lectus.
 
-    papers:
-      - title: "An Overview of Blockchain Integration with Robotics and Artificial Intelligence"
-        authors: Lopes, V., Alexandre, L.A.
-        conference: CoRR, abs/1810.00329, 2018.
-
-
+    earned:
+      - title: "Algorithmic Toolbox"
+        givenBy: "University of California, San Diego & Higher School of Economics on Coursera"
+        date: Certificate earned on May 6, 2017.
 
 publications:
     title: Publications
@@ -184,10 +182,18 @@ publications:
     #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #  bibendum fringilla a eu lectus.
 
-    earned:
-      - title: "Algorithmic Toolbox"
-        givenBy: "University of California, San Diego & Higher School of Economics on Coursera"
-        date: Certificate earned on May 6, 2017.
+    papers:
+      - title: "An Overview of Blockchain Integration with Robotics and Artificial Intelligence"
+        authors: Lopes, V., Alexandre, L.A.
+        conference: CoRR, abs/1810.00329, 2018.
+
+      - title: "Less is More: Simplifying Point Clouds to Improve Grasping Performance"
+        authors: Lopes, V., Alexandre, L.A., Fernandes, M.
+        conference: " 18th IEEE International Conference on Autonomous Robot Systems and Competitions, Torres Vedras, Portugal, 2018"
+
+      - title: "Improving Grasping Performance by Segmentation of Large Planar Surfaces"
+        authors: Lopes, V., Alexandre, L.A.
+        conference: "23rd Portuguese Conference on Pattern Recognition, RECPAD 2017, Lisbon, Portugal, October 27, 2017"
         
 awards:
     title: Awards
