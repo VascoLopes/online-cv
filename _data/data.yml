@@ -258,7 +258,7 @@ skills:
         level: Tensorflow
 
       - name: C & C++
-        #level: 98%
+        level: Scikit, NLTK, Numpy, Pandas
 
       - name: OCaml
         #level: 95%
