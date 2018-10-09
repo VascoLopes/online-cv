@@ -163,8 +163,8 @@ projects:
         tagline: "Command-line application (developed using C programming language, which consisted on aggregating information about opinions issued and received in order to detect cycles (to detect possible scams, 2 persons giving good opinions about each other all the time) and define e priority users in terms of advertising. This project was heavily based on data-structures."
 
 
-publications:
-    title: Publications
+certifications:
+    title: Certifications
     #intro: |
     #  You can list your publications in this section. Lorem ipsum dolor sit
     #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -175,13 +175,19 @@ publications:
         authors: Lopes, V., Alexandre, L.A.
         conference: CoRR, abs/1810.00329, 2018.
 
-      - title: "Less is More: Simplifying Point Clouds to Improve Grasping Performance"
-        authors: Lopes, V., Alexandre, L.A., Fernandes, M.
-        conference: " 18th IEEE International Conference on Autonomous Robot Systems and Competitions, Torres Vedras, Portugal, 2018"
 
-      - title: "Improving Grasping Performance by Segmentation of Large Planar Surfaces"
-        authors: Lopes, V., Alexandre, L.A.
-        conference: "23rd Portuguese Conference on Pattern Recognition, RECPAD 2017, Lisbon, Portugal, October 27, 2017"
+
+publications:
+    title: Publications
+    #intro: |
+    #  You can list your publications in this section. Lorem ipsum dolor sit
+    #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #  bibendum fringilla a eu lectus.
+
+    earned:
+      - title: "Algorithmic Toolbox"
+        givenBy: "University of California, San Diego & Higher School of Economics on Coursera"
+        date: Certificate earned on May 6, 2017.
         
 awards:
     title: Awards
