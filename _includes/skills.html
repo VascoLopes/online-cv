@@ -19,8 +19,9 @@
 
       {% if skill.level != None %}
         <div class="level-bar">
-          <div class="level-bar-inner" data-level="{{ skill.level }}">
-          </div>
+          <!--<div class="level-bar-inner" data-level="{{ skill.level }}">
+          </div>-->
+          <h3 class="level-title">{{ skill.level }}</h3>
         </div><!--//level-bar-->
       {% endif %}
 
