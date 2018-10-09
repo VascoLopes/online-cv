@@ -175,6 +175,14 @@ certifications:
         link: "https://www.coursera.org/account/accomplishments/verify/FNCFMPRB2G7F"
         givenBy: "University of California, San Diego & Higher School of Economics on Coursera"
         date: Certificate earned on May 6, 2017.
+        
+      - title: "Google Developer Challenge Scholarship: Android Dev"
+        givenBy: "Udacity & Google"
+        date: 2018
+        
+      - title: "Linux Essentials"
+        givenBy: "Network Development Group (NDG)"
+        date: 2018
 
 publications:
     title: Publications
