@@ -164,7 +164,7 @@ projects:
 
 
 certifications:
-    title: Certifications
+    title: Certifications & Courses
     #intro: |
     #  You can list your publications in this section. Lorem ipsum dolor sit
     #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -172,6 +172,7 @@ certifications:
 
     earned:
       - title: "Algorithmic Toolbox"
+        link: "https://www.coursera.org/account/accomplishments/verify/FNCFMPRB2G7F"
         givenBy: "University of California, San Diego & Higher School of Economics on Coursera"
         date: Certificate earned on May 6, 2017.
 
