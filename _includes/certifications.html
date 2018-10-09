@@ -18,7 +18,11 @@
 
   {% for certification in certifications.earned %}
   <div class="item">
-    <div class="publication-title">{{ certification.title }}</div>
+    {% if certification.link != None %}
+      <div class="publication-title"> <a href="{{ certification.link }}">{{ certification.title }}</a></div>
+    {% else %}
+      <div class="publication-title">{{ certification.title }}</div>
+    {% endif %}
     <div class="publication-authors">{{ certification.givenBy }}</div>
     <div class="publication-conference">{{ certification.date }}</div>
   </div><!--//item-->
