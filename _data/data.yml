@@ -258,13 +258,13 @@ skills:
         level: Tensorflow
 
       - name: C & C++
-        level: Scikit, NLTK, Numpy, Pandas
+        level: Scikit, NLTK
 
       - name: OCaml
-        #level: 95%
+        level:  Numpy, Pandas
 
       - name: Matlab
-        #level: 85%
+        level: OpenCV
 
       - name: C#
         #level: 60%
