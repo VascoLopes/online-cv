@@ -252,10 +252,10 @@ skills:
 
     toolset:
       - name: Python
-        #level: 98%
+        level: ROS
 
       - name: Java
-        #level: 98%
+        level: Tensorflow
 
       - name: C & C++
         #level: 98%
