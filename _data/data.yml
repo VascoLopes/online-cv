@@ -208,6 +208,9 @@ awards:
     title: Awards
 
     awardsReceived:
+      - title: "Bronze medallist in Maratona Inter Universitária de Programação 2018 (MIUP'18)"
+        givenBy: MIUP'18 (Programming Contest)
+    
       - title: "Best student award relative to the conclusion of Bachelor's at Computer Science and Engineering"
         link: "assets/images/QuadroDeHonraUBI.pdf"
         givenBy: "University of Beira Interior & Fundão City Council"
