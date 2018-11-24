@@ -211,7 +211,11 @@ publications:
     papers:
       - title: "An Overview of Blockchain Integration with Robotics and Artificial Intelligence"
         authors: Lopes, V., Alexandre, L.A.
-        conference: CoRR, abs/1810.00329, 2018.
+        conference: "Symposium on Blockchain for Robotic Systems, MIT Media Lab, Cambridge, MA, USA"
+        
+      - title: "An Overview of Blockchain Integration with Robotics and Artificial Intelligence"
+        authors: Lopes, V., Alexandre, L.A.
+        conference: "CoRR, abs/1810.00329, 2018."
 
       - title: "Less is More: Simplifying Point Clouds to Improve Grasping Performance"
         authors: Lopes, V., Alexandre, L.A., Fernandes, M.
