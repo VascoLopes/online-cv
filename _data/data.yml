@@ -83,8 +83,23 @@ education:
 
 experiences:
     - role: Researcher
-      time: 26/01/2017 – Present
-      company: SociaLab - Instituto de Telecomunicações, Covilhã (Portugal)
+      time: 1/09/2018 – Present
+      company: SOCIA Lab. - Pattern and Image Analysis
+      details: |
+        Conducting my Master's Thesis under the project RobotChain entitled:
+        - RobotChain: Artifical Intelligence on a Blockchain using Tezos technology
+          
+          This research is funded by Tezos Foundation.  
+
+    - role: Microsoft Student Partner - UBI 
+      time: 1/09/2018 – Present
+      company: Microsoft, Portugal
+      details: |
+          Microsoft Student Partner (MSP) for the lective year of 2018/2019 at University of Beira Interior.
+          
+    - role: Researcher
+      time: 26/01/2017 – 31/08/2018
+      company: SOCIA Lab. - Pattern and Image Analysis
       details: |
         Developed projects with focus on Robotics and Artificial Intelligence.
         
