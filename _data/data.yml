@@ -225,6 +225,9 @@ awards:
     title: Awards
 
     awardsReceived:
+      - title: "2nd place in Hack the Brain - HealthTech Hackathon with over 30 participants"
+        givenBy: UBIMedical & MedUBI & NINF
+        
       - title: "Bronze medallist in Maratona Inter Universitária de Programação 2018 (MIUP'18)"
         givenBy: MIUP'18 (Programming Contest)
     
